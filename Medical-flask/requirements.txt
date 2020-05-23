@@ -10,4 +10,4 @@ scikit-image
 mrcnn
 IPython
 opencv-python==4.1.2.30
-tensorflow==1.14.0
+tensorflow==1.15.2
